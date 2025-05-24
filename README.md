@@ -1,2 +1,2 @@
-# 0_resum_soumya
+# resum_soumya
 My latest resume for job applications
